@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">fym</string>
+    
+    <!--http-->
+	<string name="httperror">连接失败</string>
+</resources>
